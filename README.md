@@ -1,2 +1,2 @@
 
-Pagina realizada usando Cssy html
+Pagina realizada aplicando tecnicas de CSS
